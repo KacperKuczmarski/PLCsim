@@ -1,0 +1,8 @@
+Symulator języka IL (Instruction List) wykorzystywany w sterownikach programowalnych (PLC). 
+
+Program zawiera zaimplementowaną logikę PLC, interpreter języka IL, system watchdog oraz prosty edytor. 
+
+
+
+Autor Kacper Kuczmarski
+09.03.2020
